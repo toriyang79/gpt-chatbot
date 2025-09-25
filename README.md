@@ -1,1 +1,1 @@
-# gpt-chatbot
+# ToriChat
